@@ -35,7 +35,7 @@ npm uninstall karma karma-chrome-launcher karma-coverage-istanbul-reporter karma
   ]
 }
 
-### Modify package.json file:
+### Modify package.json file:  
 
     "test": "jest",
     "test:coverage": "jest --coverage",
