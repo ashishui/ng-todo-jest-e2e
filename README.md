@@ -14,7 +14,7 @@ npm uninstall karma karma-chrome-launcher karma-coverage-istanbul-reporter karma
 ### Remove karma.conf.js and src/test.ts files
 ### Create setupJest.ts file at root folder
     import 'jest-preset-angular';
-    
+
 ### Modify tsconfig.spec.json
 {
   "extends": "./tsconfig.json",
@@ -61,7 +61,7 @@ npm uninstall karma karma-chrome-launcher karma-coverage-istanbul-reporter karma
 }
 
 
-### Important Links
+### Important Links 
 
 Setup Jest : https://dev.to/alfredoperez/angular-10-setting-up-jest-2m0l
 Why & Why not jest : https://itnext.io/how-to-use-jest-in-angular-aka-make-unit-testing-great-again-e4be2d2e92d1
